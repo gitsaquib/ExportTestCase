@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/workspace/lib/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/lib/rally-rest-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/lib/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/lib/poi-2.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
